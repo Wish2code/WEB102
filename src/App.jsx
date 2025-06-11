@@ -7,7 +7,7 @@ function App() {
     <div className="app">
       <header className="app-header">
         <h1>Community Resources Board</h1>
-        <p>Helping you find the best tools to grow in tech 🚀</p>
+        <p><b>Helping you find the best tools to grow in tech 💻</b></p>
       </header>
       <main className="card-container">
         {resources.map((resource, index) => (

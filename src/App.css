@@ -1,3 +1,12 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  overflow-x: hidden;
+}
 
 html, body, #root {
   height: 100%;
@@ -28,12 +37,29 @@ html, body, #root {
 }
 
 .card-container {
-  flex: 1;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 20px;
-  width: 100%; /* ✅ Stretch to full screen */
+  margin-top: 2rem;
+  max-width: 100%;  /* ✅ Add this line */
+  padding: 0 20px;   /* ✅ Optional for left/right spacing */
 }
+
+@media (max-width: 600px) {
+  .card-container {
+    grid-template-columns: 1fr;
+    padding: 10px;
+  }
+
+  .resource-content h2 {
+    font-size: 1rem;
+  }
+
+  .view-button {
+    padding: 6px 10px;
+  }
+}
+
 
 
 
