@@ -4,7 +4,7 @@ const resources = [
     title: "freeCodeCamp",
     description: "Learn to code for free with interactive tutorials.",
     link: "https://www.freecodecamp.org",
-    image: "https://design-style-guide.freecodecamp.org/downloads/fcc_primary_large.jpg",
+    image: "Community Board\\src\\assets\\Codecademy.jpeg",
     category: "Web Development"
   },
   {
