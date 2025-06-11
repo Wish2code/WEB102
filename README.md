@@ -30,26 +30,19 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Walkthrough](./assets/Project 1 Video Walkthrough.gif)
+<img src='src/assets/Project 1 Video Walkthrough.gif' width='' alt='Video Walkthrough'/>
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-loom (https://www.loom.com/)
-Canva (https://www.canva.com/) -->
+GIF created with:  
+- loom (https://www.loom.com/)
+- Canva (https://www.canva.com/) 
 
 ## Notes
-This project was built using React and Vite for a fast and modern development experience.
-
-One of the biggest challenges was handling image paths and ensuring that assets loaded correctly across environments.
-
-Learned how to create reusable components, pass props, and organize code with a clean folder structure.
-
-The responsiveness of the site was tested and refined using developer tools for both desktop and mobile views.
-
-If cloned, remember to run npm install and npm run dev to launch the project locally.
-
-Ideal for developers seeking curated educational resources to start or enhance their programming journey.
+- This project was built using React and Vite for a fast and modern development experience.
+- One of the biggest challenges was handling image paths and ensuring that assets loaded correctly across environments.
+- Learned how to create reusable components, pass props, and organize code with a clean folder structure.
+- The responsiveness of the site was tested and refined using developer tools for both desktop and mobile views.
+- If cloned, remember to run npm install and npm run dev to launch the project locally.
+- Ideal for developers seeking curated educational resources to start or enhance their programming journey.
 
 ## License
 
