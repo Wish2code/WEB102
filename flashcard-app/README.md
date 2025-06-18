@@ -28,7 +28,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented required features:
 
-<img src='Community Board\flashcard-app\src\assets\FlashcardApp - Personal - Microsoft_ Edge 2025-06-17 21-36-39.mp4.gif' title='Video Walkthrough' alt='Video Walkthrough'/>
+<img src='src/assets/FlashcardApp - Personal - Microsoft_ Edge 2025-06-17 21-36-39.mp4.gif' title='Video Walkthrough' alt='Video Walkthrough'/>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with:
