@@ -41,7 +41,8 @@ Here's a walkthrough of implemented required features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with:
--FreeConvert (www.freeconvert.com) 
+
+- FreeConvert (www.freeconvert.com) 
 
 ## License
 
